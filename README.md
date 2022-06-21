@@ -2,7 +2,7 @@
    
 Hi there, I'm Ariel 👋     | ⚡ Fun fact
 :-------------------------:|:-------------------------:
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arielWhist&show_icons=true&layout=compact&line_height=28&card_width=30&count_private=true)](https://github.com/anuraghazra/convoychat) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielWhist&layout=compact&langs_count=30&line_height=25&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arielWhist&show_icons=true&layout=compact&line_height=28&card_width=30&count_private=true)](https://github.com/anuraghazra/convoychat) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielWhist&layout=compact&langs_count=30&line_height=25&&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3> 📫 Contact Me:</h3>
 
