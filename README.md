@@ -7,7 +7,7 @@ Hi there, I'm Ariel 👋     | ⚡ Fun fact
 <h3> 📫 Contact Me:</h3>
 
 
-
+![](https://komarev.com/ghpvc/?username=arielwhist&color=2b2139)
 
 <!-- 
 <div align="center">
